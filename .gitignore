@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# Virtual environment
+venv/
+.env
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Data files
+*.csv
+*.json
+*.xlsx
+
+# Build/package
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+logs/
+
+# System
+.DS_Store
