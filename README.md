@@ -17,7 +17,7 @@ ege/
 ## Как использовать
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/ваш-логин/ege_informatics.git
+git clone https://github.com/Seldun/ege_informatics.git
 cd ege_informatics
 ```
 
