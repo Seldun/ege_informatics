@@ -33,3 +33,8 @@ pip install -r requirements.txt
 ```bash
 python ege/type_01/solutions/task_01.py
 ```
+
+<img width="547" height="901" alt="Снимок экрана от 2025-02-06 14-28-33" src="https://github.com/user-attachments/assets/e6edd5d2-eebb-41b6-9c76-77f0feb82b07" />
+
+
+
