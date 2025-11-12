@@ -13,7 +13,7 @@
 from itertools import *
 
 cnt = 0
-for i in product(sorted("ПАРУС"), repeat=5): # не работает с Ё !!!
+for i in product(sorted("ПАРУС"), repeat=5):  # sorted() не работает с Ё !!!
     i = ''.join(i)
     cnt += 1
     if i[0] == 'У' and "АА" not in i:
