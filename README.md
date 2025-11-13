@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-Проект содержит решения всех типов задач ЕГЭ по информатике с подробными комментариями.
+Проект содержит решения всех типов задач ЕГЭ по информатике с комментариями.
 
 ## Структура проекта
 ```
